@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=garvit-ai&label=Profile%20views&color=0e75b6&style=flat" alt="garvit-ai" /> </p>
 
-- 🔭 I’m currently working on **International Quant Championship 2024**
+- 🔭 I’m currently working on **GSoC(Google Summer of Code) 2025**
 
 - 💬 Ask me about **C++**
 
