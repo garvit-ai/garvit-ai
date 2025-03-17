@@ -1,6 +1,6 @@
 <h1 align="center">Hey there! 👋 </h1>
 
-I love to craft sophisticated trading algorithms. My expertise includes Python-based backtesting of trading strategies and C++ development for financial models such as options pricing using the Black-Scholes model. Passionate about implementing financial models to real market data and machine learning. Dive into some of my projects below "
+I love to craft sophisticated trading algorithms. My expertise includes Python-based backtesting of trading strategies and C++ development for financial models such as options pricing using the Black-Scholes model. Passionate about implementing financial models to real market data and machine learning. Dive into some of my projects below.
 
 
 <h3 align="left">Languages and Tools:</h3>
