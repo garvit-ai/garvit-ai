@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! 👋, I'm Garvit Baleshwar and I love writing code</h1>
+<h1 align="center">Hey there! 👋, I'm Garvit Baleshwar </h1>
 <h3 align="center">A passionate C++ Dev in London</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=garvit-ai&label=Profile%20views&color=0e75b6&style=flat" alt="garvit-ai" /> </p>
